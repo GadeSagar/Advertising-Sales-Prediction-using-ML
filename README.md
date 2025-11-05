@@ -72,5 +72,5 @@ The dataset contains information about advertising spending and corresponding sa
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Advertising-Sales-Prediction.git
+   git clone https://github.com/GadeSagar/Advertising-Sales-Prediction.git
    cd Advertising-Sales-Prediction
